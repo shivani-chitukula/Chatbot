@@ -1,23 +1,25 @@
 # 🤖 Chatbot (LangChain + Groq + Ollama)
 
-A modular AI chatbot built using LangChain with support for Groq (cloud) and Ollama (local) models.
-Designed with streaming responses, memory, regeneration, and error handling — focused on real-world usability.
+A modular AI chatbot built using LangChain, with support for both Groq (cloud-based models) and Ollama (local models).
+
+The application focuses on real-world usability, featuring streaming responses, conversation memory, response regeneration.
+
 
 ---
 
-## 🚀 Features
+## Features
 
-* 🔄 **Streaming Responses** (real-time output like ChatGPT)
-* 🧠 **Conversation Memory**
-* 🔁 **Regenerate Response**
-* 🔀 **Model Switching** (Groq / Ollama)
-* 🎭 **Role-based Responses** (Teacher, Interviewer, etc.)
-* ⚙️ **Adjustable Temperature & Max Tokens**
-* 📋 **Clean UI with Streamlit**
+* **Streaming Responses** (real-time output like ChatGPT)
+* **Conversation Memory**
+* **Regenerate Response**
+* **Model Switching** (Groq / Ollama)
+* **Role-based Responses** (Teacher, Interviewer, etc.)
+* **Adjustable Temperature & Max Tokens**
+* **Clean UI with Streamlit**
 
 ---
 
-## 🧱 Tech Stack
+## Tech Stack
 
 * Python
 * LangChain
@@ -42,7 +44,7 @@ Chatbot/
 
 ---
 
-## ⚙️ Setup Instructions
+## Setup Instructions
 
 ### 1️⃣ Clone the repository
 
@@ -101,7 +103,7 @@ python -m streamlit run app.py
 
 ---
 
-## 🎯 How It Works
+## How It Works
 
 * User input → Prompt template → LLM (Groq/Ollama)
 * Streaming response displayed in real-time
@@ -110,7 +112,7 @@ python -m streamlit run app.py
 * Error handling ensures smooth experience
 
 ---
-## 📸 UI Preview
+## UI Preview
 
 <img width="1600" height="757" alt="image" src="https://github.com/user-attachments/assets/37e284f4-3119-46d7-a8b8-c6c1877f9202" />
 
@@ -126,7 +128,3 @@ python -m streamlit run app.py
 
 ---
 
-
-## 🧊 Author
-
-Built as part of a GenAI learning journey with focus on practical system design.
