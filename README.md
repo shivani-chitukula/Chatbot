@@ -110,6 +110,14 @@ python -m streamlit run app.py
 * Error handling ensures smooth experience
 
 ---
+## 📸 UI Preview
+
+<img width="1600" height="757" alt="image" src="https://github.com/user-attachments/assets/37e284f4-3119-46d7-a8b8-c6c1877f9202" />
+
+
+## 📊 LangSmith Tracing
+
+<img width="1600" height="808" alt="image" src="https://github.com/user-attachments/assets/3ffe8c30-5198-4c92-968c-2bdee12e943d" />
 
 ## 💡 Highlights
 
