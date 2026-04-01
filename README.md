@@ -103,6 +103,11 @@ python -m streamlit run app.py
 
 ---
 
+## Models used
+llama-3.3-70b-versatile from Groq API
+llama3 from Ollama
+
+
 ## How It Works
 
 * User input → Prompt template → LLM (Groq/Ollama)
