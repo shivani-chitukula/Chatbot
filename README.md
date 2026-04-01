@@ -104,8 +104,8 @@ python -m streamlit run app.py
 ---
 
 ## Models used
-llama-3.3-70b-versatile from Groq API
-llama3 from Ollama
+* _llama-3.3-70b-versatile_ from Groq API
+* _llama3_ from Ollama
 
 
 ## How It Works
