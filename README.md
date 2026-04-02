@@ -46,7 +46,7 @@ Chatbot/
 
 ## Setup Instructions
 
-### 1️⃣ Clone the repository
+### 1. Clone the repository
 
 ```
 git clone https://github.com/your-username/chatbot.git
@@ -55,7 +55,7 @@ cd chatbot
 
 ---
 
-### 2️⃣ Create environment
+### 2. Create environment
 
 ```
 conda create -n genai python=3.10
@@ -64,7 +64,7 @@ conda activate genai
 
 ---
 
-### 3️⃣ Install dependencies
+### 3. Install dependencies
 
 ```
 pip install -r requirements.txt
@@ -72,7 +72,7 @@ pip install -r requirements.txt
 
 ---
 
-### 4️⃣ Setup environment variables
+### 4. Setup environment variables
 
 Create a `.env` file:
 
@@ -85,7 +85,7 @@ LANGCHAIN_PROJECT=chatbot-project
 
 ---
 
-### 5️⃣ (Optional) Setup Ollama
+### 5. (Optional) Setup Ollama
 
 Install Ollama and pull a model:
 
@@ -95,7 +95,7 @@ ollama pull llama3
 
 ---
 
-### 6️⃣ Run the app
+### 6. Run the app
 
 ```
 python -m streamlit run app.py
