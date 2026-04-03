@@ -114,7 +114,6 @@ python -m streamlit run app.py
 * Streaming response displayed in real-time
 * Chat history stored using session state
 * Regenerate replaces last response instead of duplicating
-* Error handling ensures smooth experience
 
 ---
 ## UI Preview
@@ -126,10 +125,6 @@ python -m streamlit run app.py
 
 <img width="1600" height="808" alt="image" src="https://github.com/user-attachments/assets/3ffe8c30-5198-4c92-968c-2bdee12e943d" />
 
-## 💡 Highlights
-
-* Built with **modular architecture**
-* Handles real-world issues like **token limits and response cutoff**
 
 ---
 
